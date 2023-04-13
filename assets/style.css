@@ -49,7 +49,7 @@ h3 /*to be accessible on the blue background and to make it stand out*/
 }
 /*added by me*/
 #navs[id*=navs]:hover { /* this is my additional css to make the navs stand out /or to meet accessible standard*/
-    color: #6dda01;
+    color: #e98f07;
 }
 a { /*link styling*/
     color: #ffffff;
@@ -65,9 +65,6 @@ p { /*paragraph styling*/
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover; /*to make the image cover the whole container*/
     background-position: center;
-}
-h2 { /*to make the h2 stand out*/
-    color: #6dda01;
 }
 .float-left { /*to make the float left class floated to the left*/
     float: left;
