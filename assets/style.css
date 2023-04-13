@@ -53,7 +53,7 @@ h3 /*to be accessible on the blue background and to make it stand out*/
 }
 a { /*link styling*/
     color: #ffffff;
-    text-decoration: none;
+    text-decoration: none; /*remove the underline from the link*/
 }
 
 p { /*paragraph styling*/
@@ -89,18 +89,18 @@ p { /*paragraph styling*/
     padding: 20px;
     clear: both; /*no clue what this does*/
     float: right; /*to float benefit class container to the right*/
-    width: 20%; /*to make the width of the container 20%*/
-    height: 100%;/*to make the height of the container 100%*/
+    width: 20%; /*to make the width of the container 20% from the parent container*/
+    height: 100%;/*to make the height of the container 100% from the parent container*/
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
 
-.benefit-lead {/*benefit lead section styling*/
+.benefit-lead {/*benefit lead section styling with a margin-bottom of 32px and a color of #ffffff*/
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {/*benefit brand section styling*/
+.benefit-brand {/*benefit brand section styling with a margin-bottom of 32px and a color of #ffffff*/
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -122,7 +122,7 @@ p { /*paragraph styling*/
 
 .benefit-cost h3 { /*to make the h3 from benefit cost section displayed center with a margin-bottom of 10px*/
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center; /*designated the text position to center*/
 }
 /*added by me*/
 #sidebar[id*=sidebar]:hover { /*to make the sidebar headers stand out /or to meet accessible standard*/
@@ -138,7 +138,7 @@ p { /*paragraph styling*/
 .benefit-brand img {
     display: block;
     margin: 10px auto; 
-    max-width: 150px;
+    max-width: 150px; /*to set a rule for the image a maximum width 150px even when the page stretched out*/
 }
 
 .benefit-cost img {
