@@ -4,11 +4,11 @@
     margin: 0;
 }
 
-body { /*to make the body background color #d9dcd6*/
+body { /*designated the body background color #d9dcd6*/
     background-color: #d9dcd6;
 }
 
-.header { /*the header section styling which give us a 20px padding to header elements and a light blue background*/
+.header { /*designated the header section styling which give us a 20px padding to header elements and a light blue background*/
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -59,10 +59,11 @@ a { /*link styling*/
 p { /*paragraph styling*/
     font-size: 16px;
 }
-.hero { /*the hero section styling which give us a 800px height's of a pic with a 100% width and so on*/    height: 800px;
+.hero { /*the hero section styling which give us a 800px height's of a pic with a 100% width and so on*/    
+    height: 800px;
     width: 100%;
     margin-bottom: 25px;/*give a 25px margin to the bottom*/
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("./images/digital-marketing-meeting.jpg");
     background-size: cover; /*to make the image cover the whole container*/
     background-position: center;
 }
