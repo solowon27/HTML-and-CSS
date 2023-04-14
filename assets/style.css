@@ -126,7 +126,7 @@ p { /*paragraph styling*/
 }
 /*added by me*/
 #sidebar[id*=sidebar]:hover { /*to make the sidebar headers stand out /or to meet accessible standard*/
-    color: #6dda01;
+    color: #e98f07;
 }
 
 .benefit-lead img { 
