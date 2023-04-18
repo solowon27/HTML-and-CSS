@@ -7,7 +7,7 @@
 module-01-challenge 
 
 # description
-this is a homework assignment for the first module of the UofU coding bootcamp. The purpose of this assignment is to refactor the code of a website to make it more accessible and to make it follow the semantic HTML elements.
+This is a homework assignment for the first module of the UofU coding bootcamp. The assignment is to refactor the code for a webpage to make it more accessible. The webpage is for Horiseon Social Solution Services, a company that provides marketing services. The webpage includes a header with a navigation bar, a hero image, three sections that describe the services offered by Horiseon, and a footer with contact information. The webpage is currently using semantic HTML elements, but the code could be improved to make it more accessible and follow search engine optimization best practices. The goal of this assignment is to refactor the code to make the webpage more accessible and improve its search engine optimization.
 
 # project address
 
