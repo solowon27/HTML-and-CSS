@@ -9,11 +9,12 @@ module-01-challenge
 # description
 This is a homework assignment for the first module of the UofU coding bootcamp. The assignment is to refactor the code for a webpage to make it more accessible. The webpage is for Horiseon Social Solution Services, a company that provides marketing services. The webpage includes a header with a navigation bar, a hero image, three sections that describe the services offered by Horiseon, and a footer with contact information. The webpage is currently using semantic HTML elements, but the code could be improved to make it more accessible and follow search engine optimization best practices. The goal of this assignment is to refactor the code to make the webpage more accessible and improve its search engine optimization.
 
-# project address
+# project address / deployed link
 
-https://github.com/solowon27/module-01-challenge
+https://github.com/solowon27/HTML-and-CSS-Module-01-Challenge-By-Solomon-Tegegne
 
-for github page: https://solowon27.github.io/module-01-challenge/
+for github page: 
+https://solowon27.github.io/HTML-and-CSS-Module-01-Challenge-By-Solomon-Tegegne/
 
 # installation
 no need any extra installation
